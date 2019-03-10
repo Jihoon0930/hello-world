@@ -1,2 +1,4 @@
 # hello-world
-just another description
+
+Hi! Everyone~
+I am Jihoon0930
